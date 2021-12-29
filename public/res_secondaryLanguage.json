@@ -1,48 +1,47 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "مرحبا",
+      "description": "👋 مكدس كامل تم تجربته في JavaScript و CSS و HTML amd REACT. مقرها حاليًا في سياتل ، واشنطن. أنا بصدد تعلم وإتقان بايثون كلغة برمجتي الرئيسية. إنني أتطلع إلى أن أكون جزءًا مؤثرًا في هذا العصر المثير للتكنولوجيا!",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "عني",
+        "projects": "المشاريع",
+        "skills": "مهارات",
+        "experience": "خبرة"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Mental Health Questionnaire",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "المشروع الأكثر تأثيرًا الذي عملت عليه. لقد استخدمت JavaScript و HTML و CSS لإنشاء موقع ويب يسمح للمستخدمين بملء استبيان يتعامل مع موضوعات الصحة العقلية التي من شأنها أن تساعد المستخدم على فهم الأعراض التي يشعر بها بشكل أفضل والتي قد تؤدي إلى مؤشرات أكثر دقة لهذه الأعراض.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/mental-health/mental-health-questionnaire.JPG",
+          "images/portfolio/mental-health/mental-health-resources.JPG"
         ],
-        "url": "",
+        "url": "https://mental-health-website-cf201d79.github.io/mental-health-website/index.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Gallary Of Horns",
+        "startDate": "2021",
+        "description": "Gallary Of Horns هو موقع إلكتروني يسمح للمستخدمين بمشاهدة الوحوش ذات القرون المختلفة في مكان واحد مع إمكانية تصفية النتائج حسب عدد القرون!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/gallary-of-horns.JPG"
         ],
-        "url": "https://github.com",
+        "url": "https://quirky-heisenberg-34fdec.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -53,63 +52,38 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "App Academy",
+        "title": "Student",
+        "years": "10.2020 - 6.2021",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "HTML",
+          "CSS",
+          "C#"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "CodeFellows",
+        "title": "Student",
+        "years": "08.2021 - present",
         "mainTech": [
           "Angular 7/8"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap",
+          "HTML",
+          "CSS",
+          "C#",
+          "Python"
         ]
       }
     ]
