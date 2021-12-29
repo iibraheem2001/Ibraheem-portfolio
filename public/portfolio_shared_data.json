@@ -5,47 +5,32 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/iibraheem2001",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/ibraheem-ibraheem/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "Card photo.JPG"
+      "image": "Cardphoto.JPG"
     },
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML",
           "class": "devicon-html5-plain",
-          "level": "95"
+          "level": "65"
         },
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "70"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
           "level": "75"
         },
         {
@@ -56,12 +41,7 @@
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "50"
         }
       ]
     }
